@@ -1,0 +1,1 @@
+function a = rekurensi(n)  a(1:n,1)=0;  a(1)= 0.8  a(2)= 0.4  for k=3:n    a(k) = 2.5*a(k-1) ? a(k?2);  endforendfunction
